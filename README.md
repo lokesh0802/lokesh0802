@@ -5,17 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokesh0802&label=Profile%20views&color=0e75b6&style=flat" alt="lokesh0802" /> </p>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **DEVOPS**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **FULL STACK **
 
-- 📫 How to reach me **e22cseu0404@bennett.edu.in**
+- 📫 How to reach me **ls.lokesh.sheo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lokesh kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokesh kumar" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/lokesh0812" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="lokesh0812" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/_lokesh08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="_lokesh08" height="30" width="40" /></a>
+<!-- <a href="https://www.codechef.com/users/lokesh0812" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="lokesh0812" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/_lokesh08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="_lokesh08" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
